@@ -1,1 +1,1 @@
-# [My Supermarket Project](Supermarket_Sales_EDA.ipynb)
+# [My Supermarket Project](Supermarket_Sales_EDA.md)
